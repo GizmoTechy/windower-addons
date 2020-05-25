@@ -1,0 +1,17 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <AutoDrop>false</AutoDrop>
+        <AutoStack>true</AutoStack>
+        <Delay>0</Delay>
+        <Drop>Rusty Leggings,Giant Bird Fthr.,Diatryma Meat,G. Bird Plume</Drop>
+        <Lot>Porxie Pork,Ar.Abjuration: Hn.,Ar.Abjuration: Hd.,P. PUP Card,Ar.Abjuration: Bd.,Ar.Abjuration: Lg.,Gr.Abjuration: Ft.,Gr.Abjuration: Lg.,Pratik Earring,Gr.Abjuration: Hn.,Gr.Abjuration: Hd.,Ar.Abjuration: Ft.,Gr.Abjuration: Bd.</Lot>
+        <Pass>Bloodwood Log,Light Ore,Shagreen,Ryoshi Hachimaki,Aluminum Ore,Insect Wing,Tantra Tathlum,Buffalo Meat,Chimera Blood,Aristo Belt,Lacquer Tree Log,Dragon Meat,Afflictors,Sailcloth,Ext. Eyestalk,Demon Blood,Teak Log,Lambent Scale,Teutates Subligar,Sharpeye Mantle,Wyvern Skin</Pass>
+        <Verbose>false</Verbose>
+    </global>
+    <endon>
+        <AutoDrop>true</AutoDrop>
+        <Lot>Ar.Abjuration: Hn.,Ar.Abjuration: Hd.,Tr. Insect Wing,Ar.Abjuration: Bd.,Isgebind&apos;s Heart,Knobkierrie,Cirein. Lantern,Carabosse&apos;s Gem,Ar.Abjuration: Lg.,Ilabrat Ring,Regal Ring,Utu Grip,P. PUP Card,Ar.Abjuration: Ft.,Piceous Scale,Orbn. Cheekmeat,Telos Earring</Lot>
+        <Pass>Sharpeye Mantle,Bale Seal: Bd.,Apkallufa,Bale Seal: Hn.,Murex Spicule,Bale Seal: Lg.,Aristo Belt,Mavi Seal: Hn.,Afflictors,Balance Coin,Hannibal&apos;s Sword,Orison Seal: Hn.,Sanguinet,Rvg. Seal: Lg.,Land Crab Meat,Balance Earring,Balance Card,Rvg. Seal: Bd.,Teak Log,Sailcloth,Ext. Eyestalk,Balance Ring +1,Lambent Scale,Bloodwood Log,Bale Seal: Hd.,Shagreen,Rvg. Seal: Hd.,Ryoshi Hachimaki,Rvg. Seal: Hn.,Mavi Seal: Bd.,Balance Jewel,Balance Stone,Orison Seal: Hd.,Lacquer Tree Log,Dragon Meat,Isador,Triplus Dagger,H.Q. Rock Salt,Mavi Seal: Lg.,Ice Wyvern Scale,Bale Seal: Ft.,Light Ore,Blc. Earring +1,Mavi Seal: Hd.,Unkai Seal: Lg.,Orison Seal: Bd.,Balance Ring,Insect Wing,Tantra Tathlum,Aluminum Ore,Buffalo Meat,Apkallu Feather,Chimera Blood,Snow Belt,Kemas Earring,Orison Seal: Ft.,Wyvern Skin,Teutates Subligar,Mavi Seal: Ft.,Apkallu Down,Demon Blood,Apkallu Egg,Molva Maul,Orison Seal: Lg.,Vision Bow,Crab Shell,Rvg. Seal: Ft.,Raptor Skin,Balance Buckler,Orobon Meat</Pass>
+    </endon>
+</settings>

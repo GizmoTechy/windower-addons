@@ -1,0 +1,114 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <AutoActivate>true</AutoActivate>
+        <AutoDeusExAutomata>false</AutoDeusExAutomata>
+        <autosets>
+            <bruisertank>
+                <frame>valoredge frame</frame>
+                <head>soulsoother head</head>
+                <slot01>strobe</slot01>
+                <slot02>strobe ii</slot02>
+                <slot03>magniplug</slot03>
+                <slot04>magniplug ii</slot04>
+                <slot05>coiler ii</slot05>
+                <slot06>armor plate iv</slot06>
+                <slot07>turbo charger</slot07>
+                <slot08>turbo charger ii</slot08>
+                <slot09>auto-repair kit iv</slot09>
+                <slot10>optic fiber</slot10>
+                <slot11>optic fiber ii</slot11>
+                <slot12>flashbulb</slot12>
+            </bruisertank>
+            <dd>
+                <frame>sharpshot frame</frame>
+                <head>valoredge head</head>
+                <slot01>inhibitor</slot01>
+                <slot02>inhibitor ii</slot02>
+                <slot03>attuner</slot03>
+                <slot04>magniplug</slot04>
+                <slot05>magniplug ii</slot05>
+                <slot06>speedloader ii</slot06>
+                <slot07>truesights</slot07>
+                <slot08>turbo charger</slot08>
+                <slot09>turbo charger ii</slot09>
+                <slot10>optic fiber</slot10>
+                <slot11>optic fiber ii</slot11>
+                <slot12>auto-repair kit iv</slot12>
+            </dd>
+            <default>
+
+            </default>
+            <skillup>
+                <frame>sharpshot frame</frame>
+                <head>valoredge head</head>
+                <slot01>turbo charger</slot01>
+                <slot02>turbo charger ii</slot02>
+                <slot03>armor plate</slot03>
+                <slot04>armor plate ii</slot04>
+                <slot05>optic fiber</slot05>
+                <slot06>mana jammer ii</slot06>
+                <slot07>heatsink</slot07>
+                <slot08>percolator</slot08>
+                <slot09>optic fiber ii</slot09>
+                <slot10>auto-repair kit iii</slot10>
+            </skillup>
+            <turtletank>
+                <frame>valoredge frame</frame>
+                <head>soulsoother head</head>
+                <slot01>strobe</slot01>
+                <slot02>strobe ii</slot02>
+                <slot03>heat capacitor ii</slot03>
+                <slot04>mana jammer iv</slot04>
+                <slot05>mana jammer iii</slot05>
+                <slot06>regulator</slot06>
+                <slot07>armor plate iv</slot07>
+                <slot08>barrier module ii</slot08>
+                <slot09>auto-repair kit iv</slot09>
+                <slot10>optic fiber</slot10>
+                <slot11>optic fiber ii</slot11>
+                <slot12>flashbulb</slot12>
+            </turtletank>
+        </autosets>
+        <bg>
+            <alpha>255</alpha>
+            <blue>0</blue>
+            <green>0</green>
+            <red>0</red>
+            <visible>true</visible>
+        </bg>
+        <burdentracker>true</burdentracker>
+        <flags>
+            <bold>false</bold>
+            <bottom>false</bottom>
+            <draggable>true</draggable>
+            <italic>false</italic>
+            <right>false</right>
+        </flags>
+        <maneuvertimers>true</maneuvertimers>
+        <padding>0</padding>
+        <pos>
+            <x>1573</x>
+            <y>515</y>
+        </pos>
+        <text>
+            <alpha>255</alpha>
+            <blue>255</blue>
+            <font>Consolas</font>
+            <fonts>
+
+            </fonts>
+            <green>255</green>
+            <red>255</red>
+            <size>10</size>
+            <stroke>
+                <alpha>255</alpha>
+                <blue>0</blue>
+                <green>0</green>
+                <red>0</red>
+                <width>0</width>
+            </stroke>
+        </text>
+        <visible>false</visible>
+    </global>
+</settings>

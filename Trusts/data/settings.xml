@@ -1,0 +1,55 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <auto>true</auto>
+        <language>English</language>
+        <sets>
+            <cp>
+                <1>Koru-Moru</1>
+                <2>August</2>
+                <3>Apururu (UC)</3>
+                <4>Kupofried</4>
+                <5>Joachim</5>
+            </cp>
+            <default>
+                <1>Valaineral</1>
+                <2>Mihli Aliapoh</2>
+                <3>Tenzen</3>
+                <4>Adelheid</4>
+                <5>Joachim</5>
+            </default>
+            <farming>
+                <1>August</1>
+                <2>Apururu (UC)</2>
+                <3>Koru-Moru</3>
+                <4>Joachim</4>
+                <5>Kupofried</5>
+            </farming>
+            <set1>
+                <1>Apururu (UC)</1>
+                <2>Joachim</2>
+                <3>Koru-Moru</3>
+                <4>Kupipi</4>
+                <5>Ayame</5>
+            </set1>
+            <support>
+                <1>Kuyin Hathdenna</1>
+                <2>Apururu (UC)</2>
+                <3>Sakura</3>
+                <4>Brygid</4>
+                <5>Koru-Moru</5>
+            </support>
+            <support2>
+                <1>Kuyin Hathdenna</1>
+                <2>Apururu (UC)</2>
+                <3>Sakura</3>
+                <4>Koru-Moru</4>
+            </support2>
+        </sets>
+        <wait>
+            <aftercast>3</aftercast>
+            <retr>1.25</retr>
+            <retrall>3</retrall>
+        </wait>
+    </global>
+</settings>

@@ -1,0 +1,32 @@
+<?xml version="1.1" ?>
+<settings>
+    <!--
+        For the output customization lines, ${actor} denotes a value to be replaced. The options are actor, number, abil, and target.
+        Options for other modes are either "true" or "false". Other values will not be interpreted.
+    -->
+    <global>
+        <cancelmulti>true</cancelmulti>
+        <commamode>false</commamode>
+        <condensecrits>false</condensecrits>
+        <condensedamage>true</condensedamage>
+        <condensetargets>true</condensetargets>
+        <line_aoe>AOE ${numb} --&gt; ${target}</line_aoe>
+        <line_aoebuff>${actor} ${abil} --&gt; ${target} (${status})</line_aoebuff>
+        <line_full>[${actor}] ${numb} ${abil} --&gt; ${target}</line_full>
+        <line_item>[${actor}] ${abil} --&gt; ${target} (${item2})</line_item>
+        <line_itemnum>[${actor}] ${abil} --&gt; ${target} (${numb} ${item2})</line_itemnum>
+        <line_noability>${numb} --&gt; ${target}</line_noability>
+        <line_noactor>${abil} ${numb} --&gt; ${target}</line_noactor>
+        <line_nonumber>[${actor}] ${abil} --&gt; ${target}</line_nonumber>
+        <line_notarget>[${actor}] ${abil} --&gt; ${number}</line_notarget>
+        <line_roll>${actor} ${abil} --&gt; ${target} --&gt; ${number}</line_roll>
+        <line_steal>[${actor}] ${abil} --&gt; ${target} (${item})</line_steal>
+        <oxford>true</oxford>
+        <showownernames>false</showownernames>
+        <simplify>true</simplify>
+        <sumdamage>true</sumdamage>
+        <swingnumber>true</swingnumber>
+        <targetnumber>true</targetnumber>
+        <tpstatuses>true</tpstatuses>
+    </global>
+</settings>
